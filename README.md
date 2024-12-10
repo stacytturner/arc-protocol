@@ -17,4 +17,6 @@ Founder & CEO
 Silicon Valley, CA
 
 ## License Information
-Proprietary technology. All rights reserved.
+Status: Proprietary technology
+Rights: All rights reserved
+Protection: Full IP Protection
