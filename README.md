@@ -14,7 +14,7 @@ Currently in development. Initial focus on wealth management optimization with p
 ## Contact Information
 Stacy Turner
 Founder & CEO
-Silicon Valley, CA
+Palo Alto, CA
 
 ## License Information
 Status: Proprietary technology
